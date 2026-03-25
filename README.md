@@ -37,12 +37,16 @@ Navigate to the directory that matches your operating system, then run the stand
 
 ### On Linux (Fedora/Ubuntu)
 cd Linux_Makefile 
+
 make all 
+
 make flash 
 
 ### On Windows (via Git Bash / MSYS2)
 cd Windows_Makefile 
+
 make all 
+
 make flash 
 
 ## Available Commands
