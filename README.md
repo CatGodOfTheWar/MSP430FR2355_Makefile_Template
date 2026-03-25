@@ -36,13 +36,17 @@ Ensure you have the following installed on your system before proceeding:
 Navigate to the directory that matches your operating system, then run the standard `make` commands.
 
 ### On Linux (Fedora/Ubuntu)
-cd Linux_Makefile
+cd Linux_Makefile 
+
 make all
+
 make flash 
 
 ### On Windows (via Git Bash / MSYS2)
 cd Windows_Makefile
+
 make all
+
 make flash 
 
 ## Available Commands
